@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseInfoExtractorLib", "HouseInfoExtractorLib\HouseInfoExtractorLib.csproj", "{A449B3BF-5E9D-4539-A532-85D6BD6D643E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractDemo", "ExtractDemo\ExtractDemo.csproj", "{39F89422-D9D3-46CF-91E2-191D2DF70F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A449B3BF-5E9D-4539-A532-85D6BD6D643E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A449B3BF-5E9D-4539-A532-85D6BD6D643E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A449B3BF-5E9D-4539-A532-85D6BD6D643E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A449B3BF-5E9D-4539-A532-85D6BD6D643E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F89422-D9D3-46CF-91E2-191D2DF70F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F89422-D9D3-46CF-91E2-191D2DF70F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F89422-D9D3-46CF-91E2-191D2DF70F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F89422-D9D3-46CF-91E2-191D2DF70F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

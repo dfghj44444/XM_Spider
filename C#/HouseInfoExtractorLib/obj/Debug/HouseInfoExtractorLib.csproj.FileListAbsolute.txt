@@ -1,0 +1,6 @@
+D:\工作\C#新房\HouseInfoExtractorLib\obj\Debug\ResolveAssemblyReference.cache
+J:\朝花夕拾\都市搜索工作\C#新房\HouseInfoExtractorLib\obj\Debug\ResolveAssemblyReference.cache
+J:\朝花夕拾\都市搜索工作\C#新房\HouseInfoExtractorLib\bin\Debug\HouseInfoExtractorLib.dll
+J:\朝花夕拾\都市搜索工作\C#新房\HouseInfoExtractorLib\bin\Debug\HouseInfoExtractorLib.pdb
+J:\朝花夕拾\都市搜索工作\C#新房\HouseInfoExtractorLib\obj\Debug\HouseInfoExtractorLib.dll
+J:\朝花夕拾\都市搜索工作\C#新房\HouseInfoExtractorLib\obj\Debug\HouseInfoExtractorLib.pdb

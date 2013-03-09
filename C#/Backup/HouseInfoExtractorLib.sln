@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseInfoExtractorLib", "HouseInfoExtractorLib\HouseInfoExtractorLib.csproj", "{A449B3BF-5E9D-4539-A532-85D6BD6D643E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractDemo", "ExtractDemo\ExtractDemo.csproj", "{39F89422-D9D3-46CF-91E2-191D2DF70F15}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A449B3BF-5E9D-4539-A532-85D6BD6D643E}.Debug.ActiveCfg = Debug|.NET
+		{A449B3BF-5E9D-4539-A532-85D6BD6D643E}.Debug.Build.0 = Debug|.NET
+		{A449B3BF-5E9D-4539-A532-85D6BD6D643E}.Release.ActiveCfg = Release|.NET
+		{A449B3BF-5E9D-4539-A532-85D6BD6D643E}.Release.Build.0 = Release|.NET
+		{39F89422-D9D3-46CF-91E2-191D2DF70F15}.Debug.ActiveCfg = Debug|.NET
+		{39F89422-D9D3-46CF-91E2-191D2DF70F15}.Debug.Build.0 = Debug|.NET
+		{39F89422-D9D3-46CF-91E2-191D2DF70F15}.Release.ActiveCfg = Release|.NET
+		{39F89422-D9D3-46CF-91E2-191D2DF70F15}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

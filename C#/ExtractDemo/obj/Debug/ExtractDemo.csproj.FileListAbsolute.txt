@@ -1,0 +1,12 @@
+D:\工作\C#新房\ExtractDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\C#新房\ExtractDemo\obj\Debug\ExtractDemo.MainForm.resources
+D:\工作\C#新房\ExtractDemo\obj\Debug\ExtractDemo.csproj.GenerateResource.Cache
+J:\朝花夕拾\都市搜索工作\C#新房\ExtractDemo\obj\Debug\ResolveAssemblyReference.cache
+J:\朝花夕拾\都市搜索工作\C#新房\ExtractDemo\obj\Debug\ExtractDemo.MainForm.resources
+J:\朝花夕拾\都市搜索工作\C#新房\ExtractDemo\obj\Debug\ExtractDemo.csproj.GenerateResource.Cache
+J:\朝花夕拾\都市搜索工作\C#新房\ExtractDemo\bin\Debug\ExtractDemo.exe
+J:\朝花夕拾\都市搜索工作\C#新房\ExtractDemo\bin\Debug\ExtractDemo.pdb
+J:\朝花夕拾\都市搜索工作\C#新房\ExtractDemo\bin\Debug\HouseInfoExtractorLib.dll
+J:\朝花夕拾\都市搜索工作\C#新房\ExtractDemo\bin\Debug\HouseInfoExtractorLib.pdb
+J:\朝花夕拾\都市搜索工作\C#新房\ExtractDemo\obj\Debug\ExtractDemo.exe
+J:\朝花夕拾\都市搜索工作\C#新房\ExtractDemo\obj\Debug\ExtractDemo.pdb
