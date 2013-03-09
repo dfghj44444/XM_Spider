@@ -1,7 +1,8 @@
 XM_Spider
 =========
 
-my first spider what is written by delphi
+xingmin's spider 
+there include two verion ,delphi7 and c# 2.0
 
 Version 1.0
 Desc:
